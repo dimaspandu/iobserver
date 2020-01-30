@@ -1,0 +1,2 @@
+-https://devanswers.co/create-application-specific-password-gmail/
+-https://devanswers.co/enable-2-step-verification-google-account/

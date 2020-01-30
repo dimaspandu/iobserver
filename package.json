@@ -1,0 +1,33 @@
+{
+  "name": "iobserver",
+  "version": "1.0.0",
+  "description": "Subscribe Mail",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "dev": "nodemon index.js",
+    "s": "node index.js",
+    "debug": "node --inspect-brk=127.0.0.1:9449 index.js"
+  },
+  "keywords": [
+    "kmzway87aa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/polyfill": "^7.8.3",
+    "base-64": "^0.1.0",
+    "base64-stream": "^1.0.0",
+    "dotenv": "^8.2.0",
+    "html-table-to-json": "^1.0.0",
+    "imap": "^0.8.19",
+    "mysql": "^2.18.0",
+    "nodemon": "^2.0.2",
+    "unzipper": "^0.10.7"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.3",
+    "@babel/core": "^7.8.3",
+    "@babel/preset-env": "^7.8.3"
+  }
+}
